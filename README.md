@@ -12,13 +12,14 @@ Our approach involved the development of a three-platform model to standardize C
 
 
 #  Requirement
-Python 3.7.6
-sklearn 0.22.1
-numpy 1.21.6
-scipy 1.5.2
-pandas 1.0.1
-lightgbm 3.2.0
-xgboost 1.5.2
+- Python 3.7.6
+- sklearn 0.22.1
+- numpy 1.21.6
+- scipy 1.5.2
+- pandas 1.0.1
+- lightgbm 3.2.0
+- xgboost 1.5.2
+
 #  Note
 1. Three_platform_model.py  : Standardize CBC data
 2. Immune_status_cluster.py : Used for immune state clustering of CBC data
